@@ -16,6 +16,7 @@
 
 package com.example.schedulingtasks;
 
+import com.example.schedulingtasks.scheduling.ScheduledTasks;
 import org.awaitility.Duration;
 import org.junit.jupiter.api.Test;
 

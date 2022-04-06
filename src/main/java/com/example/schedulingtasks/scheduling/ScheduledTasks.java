@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.schedulingtasks;
+package com.example.schedulingtasks.scheduling;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
