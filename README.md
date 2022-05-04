@@ -1,10 +1,10 @@
-# Overview
+# Basic Spring Scheudling application
 
 This project demonstrates Spring's scheduling functionality by scheduling a method to be executed every 5 seconds.
 
 ## Code
 
-To enable scheduling support in Spring, the annotation `@EnableScheduling` should be placed on the main applicaiton class.
+To enable scheduling support in Spring, the annotation `@EnableScheduling` should be placed on the main application class.
 
 ```java
 @SpringBootApplication
