@@ -27,3 +27,15 @@ public void reportCurrentTime() {
     log.info("The time is now {}", dateFormat.format(new Date()));
 }
 ```
+
+## Building and running
+
+```bash
+./mvnw spring-boot:run
+```
+
+You will see log output that contains the message
+
+```bash
+The time is now 16:27:31
+```
